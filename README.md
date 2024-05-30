@@ -14,9 +14,9 @@
 <summary>Contact Me 📬</summary>
 You can reach me by:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([Your_LinkedIn_URL](https://www.linkedin.com/in/mohammadabbas1594/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadabbas1594/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamadabbas393@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([Your_Instagram_UR](https://www.instagram.com/mohamad._.abbas/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mohamad._.abbas/)
 
 </details>
 
