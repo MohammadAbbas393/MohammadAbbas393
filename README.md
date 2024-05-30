@@ -1,7 +1,7 @@
 # Hello, I'm Mohammad Abbas,
 I'm a Middlebury College student majoring in Computer Science and Math. Please take a look at my resume for more information.
 
-![My Image](https://drive.google.com/uc?export=view&id=10sRc2OBvElPP9nH16xxo_p1i3Yi_deMP)
+![My Image]([https://drive.google.com/uc?export=view&id=10sRc2OBvElPP9nH16xxo_p1i3Yi_deMP](https://drive.google.com/file/d/10sRc2OBvElPP9nH16xxo_p1i3Yi_deMP/view?usp=drive_link))
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
