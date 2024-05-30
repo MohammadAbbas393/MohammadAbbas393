@@ -1,10 +1,9 @@
-# Hello, I'm [Mohammad Abbas],
-I'm a Middlebury College student majoring in Computer science and Math. Please take a look at my resume for more information.
+# Hello, I'm Mohammad Abbas,
+I'm a Middlebury College student majoring in Computer Science and Math. Please take a look at my resume for more information.
 
-![Your Image]([URL_to_image](https://drive.google.com/file/d/10sRc2OBvElPP9nH16xxo_p1i3Yi_deMP/view?usp=drive_link))
+![Your Image](https://drive.google.com/uc?export=view&id=10sRc2OBvElPP9nH16xxo_p1i3Yi_deMP)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
 
 <details>
 <summary>Contact Me 📬</summary>
