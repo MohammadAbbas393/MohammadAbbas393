@@ -25,7 +25,6 @@ You can reach me by:
 About this Account
 
 - [Website](Your_Website_URL)
-- ![Online](https://img.shields.io/badge/Online-green)
 
 </details>
 
@@ -34,7 +33,7 @@ Support
 If you like my work and wish to support it, feel free to buy me a coffee!
 
 <p align="center">
-  <a href="Your_BuyMeACoffee_Link">
+  <a href="(https://www.buymeacoffee.com/mohamadabb3)">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy me a coffee"/>
   </a>
 </p>
