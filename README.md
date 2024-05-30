@@ -5,7 +5,7 @@
 <p align="center">I'm a Middlebury College student majoring in Computer Science and Math. Please take a look at my resume for more information.</p>
 
 
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MohammadAbbas/MohammadAbbas/blob/output/github-contribution-grid-snake.svg)
 
 
 <details>
