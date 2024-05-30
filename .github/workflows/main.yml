@@ -2,16 +2,18 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day at midnight
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # This line runs the workflow daily at midnight UTC
+  workflow_dispatch:  # This allows you to manually trigger the workflow
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # Specifies the runner environment
+
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v2  # Checks-out your repository under $GITHUB_WORKSPACE
+
     - name: Generate snake game
-      uses: Platane/snk@workflow
+      uses: Platane/snk@workflow  # Points to the action that generates the snake game
       with:
-        github_user_name: MohammadAbbas393
-        svg_out_path: dist/github-contribution-grid-snake.svg
+        github_user_name: 'your-github-username'  # Replace with your GitHub username
+        svg_out_path: 'dist/github-contribution-grid-snake.svg'  # Path to save the snake game SVG
