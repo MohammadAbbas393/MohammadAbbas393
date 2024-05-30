@@ -1,9 +1,10 @@
 <h1 align="center">Hello, I'm Mohammad Abbas</h1>
-<p align="center">I'm a Middlebury College student majoring in Computer Science and Math. Please take a look at my resume for more information.</p>
-
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=10sRc2OBvElPP9nH16xxo_p1i3Yi_deMP" alt="My Image" width="300"/>
 </p>
+<p align="center">I'm a Middlebury College student majoring in Computer Science and Math. Please take a look at my resume for more information.</p>
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" alt="My GitHub Stats"/>
