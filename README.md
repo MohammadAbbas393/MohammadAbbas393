@@ -4,9 +4,7 @@
 </p>
 <p align="center">I'm a Middlebury College student majoring in Computer Science and Math. Please take a look at my resume for more information.</p>
 
-
 ![snake gif](https://github.com/MohammadAbbas/MohammadAbbas/blob/output/github-contribution-grid-snake.svg)
-
 
 <details>
 <summary>Contact Me 📬</summary>
@@ -35,4 +33,3 @@ If you like my work and wish to support it, feel free to buy me a coffee!
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy me a coffee"/>
   </a>
 </p>
-
