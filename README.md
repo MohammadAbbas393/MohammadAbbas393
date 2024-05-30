@@ -12,14 +12,26 @@
 
 <details>
 <summary>Contact Me 📬</summary>
-Here's where you can find my contact information and reach out to me:
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn](your-linkedin-url)
+You can reach me by:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](Your_LinkedIn_URL)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](Your_Facebook_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](Your_Instagram_URL)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](Your_WhatsApp_Link)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](Your_Twitter_URL)
+
 </details>
 
 <details>
-<summary>About Me 👤</summary>
-I am passionate about technology and mathematics, continually seeking to combine these disciplines to solve complex problems and innovate. Learn more about my projects and interests here.
+<summary>About 👤</summary>
+About this Account
+
+- Profile Views: 66,303
+- [Website](Your_Website_URL)
+- ![Online](https://img.shields.io/badge/Online-green)
+- ![License](https://img.shields.io/badge/license-MIT-green)
+
 </details>
 
 Support
