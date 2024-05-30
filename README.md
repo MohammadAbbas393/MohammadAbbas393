@@ -5,10 +5,8 @@
 <p align="center">I'm a Middlebury College student majoring in Computer Science and Math. Please take a look at my resume for more information.</p>
 
 
+![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" alt="My GitHub Stats"/>
-</p>
 
 <details>
 <summary>Contact Me 📬</summary>
