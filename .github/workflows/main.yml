@@ -25,12 +25,13 @@ jobs:
       - uses: actions/checkout@v2
 
     # Generates the snake  
-      - - uses: Platane/snk@master
+      -  uses: Platane/snk@master
   id: snake-gif
   with:
-    github_user_name: MohammadAbbas393
+    github_user_name: MohammadAbbas393  # Set this to your GitHub username
     gif_out_path: dist/github-contribution-grid-snake.gif
     svg_out_path: dist/github-contribution-grid-snake.svg
+
 
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
