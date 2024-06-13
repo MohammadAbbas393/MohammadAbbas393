@@ -75,8 +75,8 @@
       </p>
       <p>
         <a href="https://github.com/MohammadAbbas393/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true" alt="MohammadAbbas393 :: Top Langs by repo">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true" alt="MohammadAbbas393 :: Top Langs by commit">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammadAbbas393&theme=gruvbox&layout=compact&hide_border=true" alt="MohammadAbbas393 :: Top Langs by repo">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohammadAbbas393&theme=gruvbox&layout=compact&hide_border=true" alt="MohammadAbbas393 :: Top Langs by commit">
         </a>
       </p>
     </details>
