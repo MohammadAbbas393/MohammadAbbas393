@@ -7,7 +7,8 @@
 # My GitHub Contributions
 
 Below is a visual representation of my GitHub contributions over time:
-![GitHub Contributions Snake](https://github.com/MohammadAbbas393/MohammadAbbas393/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contributions Snake](https://raw.githubusercontent.com/MohammadAbbas393/MohammadAbbas393/output/github-contribution-grid-snake.svg
+)
 
 
 ## GitHub Calendar
