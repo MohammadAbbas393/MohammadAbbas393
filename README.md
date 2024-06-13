@@ -1,6 +1,6 @@
 # Hello, I'm Mohammad Abbas
 
-![Mohammad Abbas](https://drive.google.com/file/d/10sRc2OBvElPP9nH16xxo_p1i3Yi_deMP/view?usp=drive_link)
+![Mohammad Abbas](https://drive.google.com/uc?export=view&id=10sRc2OBvElPP9nH16xxo_p1i3Yi_deM)
 
 I'm a Computer Science and Math student at Middlebury College, passionate about technology and software development. Explore more about my interests and projects on my [personal website](https://mohammadabbas393.vercel.app/).
 
@@ -18,3 +18,4 @@ I enjoy exploring the intersection of technology and education, and am always ke
 ### What's Next?
 
 I'm always looking for new opportunities to grow, collaborate, and make a positive impact. Let's get in touch if you think we can create something amazing together!
+
