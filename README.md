@@ -114,7 +114,6 @@
   </a>
   <br>
 </details>
-<details>
 ### Support
 
 You can support me by buying me a coffee if you like to.
