@@ -195,14 +195,8 @@
 
 You can support me by buying me a coffee if you like to.
 
-<div align="left">
-  <a href="https://www.buymeacoffee.com/MohammadAbb3" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 42px !important;width: 151.9px !important; margin-top: 50px !important;">
-  </a>
-</div>
+<a href="https://www.buymeacoffee.com/mohamadabb3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
 
-</body>
-</html>
 
 -----
 
