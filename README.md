@@ -48,7 +48,7 @@
 </details>
 
 <details>
-  <summary>About 🫣</summary>
+  <summary>About </summary>
   <div align="center">
     <h2>About this Account</h2>
     <p>
