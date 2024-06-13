@@ -59,11 +59,6 @@
         <img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https://mohammadabbas393.vercel.app" height="25" alt="website">
       </a>
     </p>
-    <p>
-      <a href="https://www.codefactor.io/repository/github/MohammadAbbas393/MohammadAbbas393/overview/main">
-        <img src="https://www.codefactor.io/repository/github/MohammadAbbas393/MohammadAbbas393/badge/main" height="25" alt="CodeFactor">
-      </a>
-    </p>
   </div>
 </details>
 
