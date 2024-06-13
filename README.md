@@ -1,49 +1,20 @@
-<h1 align="center">Hello, I'm Mohammad Abbas</h1>
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=10sRc2OBvElPP9nH16xxo_p1i3Yi_deMP" alt="My Image" width="300"/>
-</p>
-<p align="center">I'm a Middlebury College student majoring in Computer Science and Math. Please take a look at my resume for more information.</p>
+# Hello, I'm Mohammad Abbas
 
-# My GitHub Contributions
+![Mohammad Abbas](https://drive.google.com/uc?export=view&id=10sRc2OBvElPP9nH16xxo_p1i3Yi_deM)
 
-Below is a visual representation of my GitHub contributions over time:
-![GitHub Contributions Snake](https://raw.githubusercontent.com/MohammadAbbas393/MohammadAbbas393/output/github-contribution-grid-snake.svg
-)
+I'm a Computer Science and Math student at Middlebury College, passionate about technology and software development. Explore more about my interests and projects on my [personal website](https://mohammadabbas393.vercel.app/).
 
+## Connect With Me
 
-## GitHub Calendar
+If you're interested in my work or have any questions, feel free to connect:
 
-Days I Code:
+- **LinkedIn**: [Mohammad Abbas](https://www.linkedin.com/in/mohammadabbas1594/)
+- **Email**: [mohamadabbas393@gmail.com](mailto:mohamadabbas393@gmail.com)
 
-![GitHub Calendar](https://ghcalendar.xyz/MohammadAbbas393)
+## About Me
 
+I enjoy exploring the intersection of technology and education, and am always keen on projects that challenge the status quo in tech. Outside of my academic and professional pursuits, I find joy in photography, hiking, and engaging with diverse cultures through travel.
 
-export default Github;
+### What's Next?
 
-<details>
-<summary>Contact Me 📬</summary>
-You can reach me by:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadabbas1594/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamadabbas393@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mohamad._.abbas/)
-
-</details>
-
-<details>
-<summary>About 👤</summary>
-About this Account
-
-- [Website](Your_Website_URL)
-
-</details>
-
-Support
--------
-If you like my work and wish to support it, feel free to buy me a coffee!
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/mohamadabb3">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy me a coffee"/>
-  </a>
-</p>
+I'm always looking for new opportunities to grow, collaborate, and make a positive impact. Let's get in touch if you think we can create something amazing together!
