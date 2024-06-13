@@ -97,7 +97,7 @@
   <br>
   <h2 align="center">Latest Contribution</h2>
   <a href="https://github.com/MohammadAbbas393/github-readme-activity-graph">
-    <img alt="Mohammad's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=1999azzar&theme=github-compact&hide_border=true">
+    <img alt="Mohammad's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadAbbas393&theme=github-compact&hide_border=true">
   </a>
   <br>
 </details>
