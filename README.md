@@ -63,14 +63,6 @@
       <a href="https://www.codefactor.io/repository/github/MohammadAbbas393/MohammadAbbas393/overview/main">
         <img src="https://www.codefactor.io/repository/github/MohammadAbbas393/MohammadAbbas393/badge/main" height="25" alt="CodeFactor">
       </a>
-      <a href="github.com/MohammadAbbas393" target="_blank">
-        <img src="https://MohammadAbbas393/MohammadAbbas393/MohammadAbbas393/actions/workflows/pages/pages-build-deployment/badge.svg" height="25" alt="page built">
-      </a>
-    </p>
-    <p>
-      <a href="github.com/MohammadAbbas393" target="_blank">
-        <img src="https://img.shields.io/github/license/MohammadAbbas393/MohammadAbbas393?color=purple&style=for-the-badge" height="25" alt="license">
-      </a>
     </p>
   </div>
 </details>
