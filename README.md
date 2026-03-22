@@ -55,8 +55,8 @@
       <a href="github.com/Mohammadabbas393" target="_blank">
         <img src="https://komarev.com/ghpvc/?username=MohammadAbbas393&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count">
       </a>
-      <a href="https://mohammadabbas393.vercel.app">
-        <img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https://mohammadabbas393.vercel.app" height="25" alt="website">
+      <a href="https://mohammadabbas.vercel.app">
+        <img src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https://mohammadabbas.vercel.app" height="25" alt="website">
       </a>
     </p>
   </div>
