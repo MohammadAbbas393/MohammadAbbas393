@@ -17,7 +17,7 @@
 <hr>
 
 <div align="center">
-  <a href="https://mohammadabbas393.vercel.app">
+  <a href="https://mohammadabbas.vercel.app">
     <img src="https://github.com/MohammadAbbas393/MohammadAbbas393/blob/18310736f953423a14c43af88934034d44dc39c5/grid-snake.svg" alt="snake">
   </a>
 </div>
